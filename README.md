@@ -1,5 +1,6 @@
 # Fixtures
-A collection of test data for manifests, annotations, and more to support the writing of bug-free software
+A collection of test data for manifests, annotations, and more to support the writing of bug-free software.
+[Validator](http://iiif.io/api/presentation/validator/service/validate)
 
 ## Image API
 
